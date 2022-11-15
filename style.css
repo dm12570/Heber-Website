@@ -1,3 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
 .buttons{
  
   
@@ -18,12 +24,13 @@
         list-style: none;
         
         
+        
     }
 
     body, html{
         background-image: url("/Images/HEBER\ VALLEY.jpg");
         position: relative;
-        background-size: 200%;
+        background-size: 300%;
         background-repeat: no-repeat;
 
     }
@@ -41,26 +48,50 @@
 }
 
 .buttons2{
+   
     background-image: url("/Images/Food.jfif");
     margin: auto;
-   
+   background-size: 50%;
    text-align: center;
-    padding: 8%;
+   
+    padding: 5%
+    
+    8%;
    background-position: center;
    background-repeat: no-repeat;
    color: greenyellow;
    position: relative;
+   
 }
 
 .buttons3{
     background-image: url("/Images/images.jfif");
     margin: auto;
-    
+    background-size: 55%;
+
    text-align: center;
-    padding: 8%;
+    padding: 10%;
    background-position: center;
    background-repeat: no-repeat;
    color: greenyellow;
    position: relative;
 }
 
+
+.glasses{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) url("/Images/Sports.jfif");
+    background-repeat: no-repeat;
+    text-align: center;
+   
+
+}
+
+.cool{
+    border-color: grey;
+    border-style: ridge;
+    background-color: white;
+    margin: auto;
+    width: 65%;
+    text-align: center;
+    
+}
