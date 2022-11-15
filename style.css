@@ -1,4 +1,66 @@
 .buttons{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url();
-    align-items: stretch;
+ 
+  
+        margin: auto;
+         background-image: url("Images/HVNT.jpg");
+        text-align: center;
+         padding: 8%;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: greenyellow;
+        position: relative;
+       
+      
+        
+    }
+
+    .oof{
+        list-style: none;
+        
+        
+    }
+
+    body, html{
+        background-image: url("/Images/HEBER\ VALLEY.jpg");
+        position: relative;
+        background-size: 200%;
+        background-repeat: no-repeat;
+
+    }
+
+.buttons1{
+    background-image:url("/Images/Sun.jfif");
+    margin: auto;
+   
+   text-align: center;
+    padding: 8%;
+   background-position: center;
+   background-repeat: no-repeat;
+   color: greenyellow;
+   position: relative;
 }
+
+.buttons2{
+    background-image: url("/Images/Food.jfif");
+    margin: auto;
+   
+   text-align: center;
+    padding: 8%;
+   background-position: center;
+   background-repeat: no-repeat;
+   color: greenyellow;
+   position: relative;
+}
+
+.buttons3{
+    background-image: url("/Images/images.jfif");
+    margin: auto;
+    
+   text-align: center;
+    padding: 8%;
+   background-position: center;
+   background-repeat: no-repeat;
+   color: greenyellow;
+   position: relative;
+}
+
